@@ -1,0 +1,7 @@
+foo {
+  property-1: 'value-1'
+  bar {
+    property-1: 'value-1'
+    property-2: 'value-2'
+  }
+}
