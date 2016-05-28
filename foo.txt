@@ -1,7 +1,7 @@
 foo {
-  property-A: 'value-1'
+  property-A: 'value-A'
   bar {
-    property-A: 'value-1'
-    property-B: 'value-2'
+    property-A: 'value-A'
+    property-B: 'value-B'
   }
 }
