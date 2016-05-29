@@ -1,6 +1,7 @@
 foo {
   property-A: 'value-1'
   bar {
+    # The order is important!
     property-B: 'value-2'
     property-A: 'value-1'
   }
