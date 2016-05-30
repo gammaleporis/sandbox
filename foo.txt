@@ -5,4 +5,7 @@ foo {
     property-B: 'value-2'
     property-A: 'value-1'
   }
+  baz {
+    property-A: 'value-1'
+  }
 }
