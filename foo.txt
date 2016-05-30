@@ -1,9 +1,9 @@
 foo {
-  property-A: 'value-1'
+  property-A: 'value-A'
   bar {
     # The order is important!
-    property-B: 'value-2'
-    property-A: 'value-1'
+    property-B: 'value-B'
+    property-A: 'value-A'
   }
   baz {
     sub-section {
