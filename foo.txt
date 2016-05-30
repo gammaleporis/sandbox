@@ -5,4 +5,9 @@ foo {
     property-B: 'value-B'
     property-A: 'value-A'
   }
+  baz {
+    sub-section {
+      property-A: 'value-1'
+    }
+  }
 }
